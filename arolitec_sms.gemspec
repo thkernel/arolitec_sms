@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "arolitec_sms"
   spec.version       = ArolitecSms::VERSION
   spec.authors       = ["thkernel"]
-  spec.email         = ["a.dembele@auctum.ml"]
+  spec.email         = ["a.dembele@upcase.net"]
 
   spec.summary       = %q{Arolitec SMS API HTTP client.}
   spec.description   = %q{Ruby HTTP client to interact with Arolitec SMS Gateway.}

@@ -4,7 +4,7 @@ require "json"
 
 require "arolitec_sms/version"
 require "arolitec_sms/configuration"
-require "arolitec_sms/exceptions"
+#require "arolitec_sms/exceptions"
 #require "arolitec_sms/interceptor"
 require "arolitec_sms/client"
 
